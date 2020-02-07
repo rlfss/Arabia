@@ -167,3 +167,8 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 13.0
+
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 13.0
