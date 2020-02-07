@@ -212,3 +212,8 @@
 	path = OCA/website-cms
 	url = git@github.com:OCA/website-cms.git
 	branch = 13.0
+
+[submodule "OCA/survey"]
+	path = OCA/survey
+	url = git@github.com:OCA/survey.git
+	branch = 13.0
