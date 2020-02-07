@@ -182,3 +182,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 13.0
+
+[submodule "OCA/hr-holidays"]
+	path = OCA/hr-holidays
+	url = git@github.com:OCA/hr-holidays.git
+	branch = 13.0
