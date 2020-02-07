@@ -237,3 +237,8 @@
 	path = OCA/server-brand
 	url = git@github.com:OCA/server-brand.git
 	branch = 13.0
+
+[submodule "OCA/pos"]
+	path = OCA/pos
+	url = git@github.com:OCA/pos.git
+	branch = 13.0
