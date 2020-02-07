@@ -192,3 +192,8 @@
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
 	branch = 13.0
+
+[submodule "OCA/project-reporting"]
+	path = OCA/project-reporting
+	url = git@github.com:OCA/project-reporting.git
+	branch = 13.0
