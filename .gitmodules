@@ -242,3 +242,8 @@
 	path = OCA/pos
 	url = git@github.com:OCA/pos.git
 	branch = 13.0
+
+[submodule "OCA/sale-reporting"]
+	path = OCA/sale-reporting
+	url = git@github.com:OCA/sale-reporting.git
+	branch = 13.0
