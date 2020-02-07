@@ -1,0 +1,4 @@
+[submodule "OCA/hr-attendance"]
+	path = OCA/hr-attendance
+	url = git@github.com:OCA/hr-attendance.git
+	branch = 13.0
