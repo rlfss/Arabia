@@ -32,3 +32,8 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 13.0
+
+[submodule "OCA/multi-company"]
+	path = OCA/multi-company
+	url = git@github.com:OCA/multi-company.git
+	branch = 13.0
